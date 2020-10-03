@@ -1,0 +1,20 @@
+.main-container{
+    min-height: 480px;
+    height: auto;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.center-content{
+    padding: auto !important;
+    padding-left: 400px;
+
+}
+.font-icon-large{
+    font-size: 40px !important;
+}
+.b-red{
+    border: 2px solid red;
+}
+.b-green{
+    border: 2px solid green;
+}

@@ -1,0 +1,9 @@
+.image.user-img {
+    height: 148px !important;
+}
+.image.user-img > img {
+    height: 100% !important;
+    width: 100% !important;
+    object-fit: cover;
+    object-position: top;
+}
