@@ -1,0 +1,16 @@
+.description.mb-40.post-section {
+    font-size: 1em !important;
+    line-height: 1.4 !important;
+}
+
+#post-sections-container .header {
+    font-size: 3em !important;
+}
+
+#post-sections-container .description{
+    font-size: 1.4em !important;
+}
+
+.no-card-shadow{
+    box-shadow: none !important;
+}
