@@ -2,7 +2,7 @@
 
 This project was used to demonstrate the use of react redux toolkit.
 
-This is the ui part of the project, I have the backend part named **React-redux-toolkit-project-backend**
+This is the ui part of the project, I have the backend part named [**React-redux-toolkit-project-backend**](https://github.com/briancollins081/React-redux-toolkit-project-backend)
 
 # Development
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
